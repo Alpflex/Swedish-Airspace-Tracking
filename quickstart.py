@@ -9,14 +9,14 @@ from googleapiclient.errors import HttpError
 #test
 from myconfig import Search
 import datetime
+from key import *
 
 def write():
   # If modifying these scopes, delete the file token.json.
   SCOPES = ["https://www.googleapis.com/auth/spreadsheets"]
 
   # The ID and range of a sample spreadsheet.
-  SPREADSHEET_ID = ""
-  blad = ""
+
 
   """Shows basic usage of the Sheets API.
   Prints values from a sample spreadsheet.
