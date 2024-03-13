@@ -13,3 +13,12 @@ opensky-api
 
 
 
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/misc.xml
+.idea/Projekt-plane2.iml
+.idea/vcs.xml
+.idea/workspace.xml
+__pycache__/key.cpython-312.pyc
+__pycache__/myconfig.cpython-312.pyc
+__pycache__/myimport.cpython-312.pyc
+__pycache__/quickstart.cpython-312.pyc
